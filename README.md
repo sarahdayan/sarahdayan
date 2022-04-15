@@ -8,4 +8,4 @@
 
 ---
 
-I'm a Staff Software Engineer at [Algolia](https://www.algolia.com/) working on Developer Experience. I also work on open source libraries, including my flagship project [Dinero.js](https://github.com/dinerojs/dinero.js). I'm a [Vue.js](https://vuejs.org/) fan, but also dabble in [React](https://reactjs.org/) sometimes. I love making open-source libraries in JavaScript and TypeScript, build eye-candy user interfaces, and [talk at conferences](https://noti.st/sarahdayan) on topics like test-driven development or utility-first CSS.
+I'm a Staff Software Engineer at [Algolia](https://www.algolia.com/) working on front-end search experiences. I also work on my own open source libraries like [Dinero.js](https://github.com/dinerojs/dinero.js), and I host the [Developer Experience podcast](https://developerexperience.buzzsprout.com/). I like making open-source libraries in TypeScript and JavaScript, build eye-candy user interfaces, and [talk at conferences](https://noti.st/sarahdayan) on topics like test-driven development or utility-first CSS.
